@@ -21,7 +21,7 @@ Dimitris Stamatellos
 https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb
 
 <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb">
-  <img src="![image](https://user-images.githubusercontent.com/61747927/133038090-cde2e4cb-8289-480f-a2ad-f5651d0cde80.png)" width = "100 px"/>
+  <img src="![image](https://user-images.githubusercontent.com/61747927/133038090-cde2e4cb-8289-480f-a2ad-f5651d0cde80.png)"/>
 </a>
 
 
