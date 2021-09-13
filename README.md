@@ -20,7 +20,7 @@ Dimitris Stamatellos
 ## My solution
 follow this link >> https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb
 
-or click button below.<a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb">
+or click button.>>> <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb">
   <img src="https://user-images.githubusercontent.com/61747927/133038578-7b28c803-dbb4-442d-97f9-3872b8c25031.png" width = "150 px"/>
 </a>
 
