@@ -17,7 +17,7 @@ Dimitris Stamatellos
 
 
 
-## My solution
+## My solution (วิธีการแก้โจทย์ของผมเองครับ)
 follow this link >> https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb
 
 or click button.>>> <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb">
@@ -25,5 +25,5 @@ or click button.>>> <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet
 </a>
 
 
-## My certificate.
+## My certificate. (ได้รับระดับดีเยี่ยมครับ)
 ![Sorayut Piamrod 377](https://user-images.githubusercontent.com/61747927/133024148-7f8fe93b-1cde-4270-8f7c-f0424870cf55.jpg)
