@@ -14,3 +14,7 @@ Before trying the questions please watch the "Exoplanets Lecture" (available fro
 I hope you will enjoy this project and learn some interesting things!
 
 Dimitris Stamatellos
+
+
+### My certificate.
+![Sorayut Piamrod 377](https://user-images.githubusercontent.com/61747927/133024148-7f8fe93b-1cde-4270-8f7c-f0424870cf55.jpg)
