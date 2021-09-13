@@ -17,9 +17,9 @@ Dimitris Stamatellos
 
 
 
-### My solution
+## My solution
 https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb
 
 
-### My certificate.
+## My certificate.
 ![Sorayut Piamrod 377](https://user-images.githubusercontent.com/61747927/133024148-7f8fe93b-1cde-4270-8f7c-f0424870cf55.jpg)
