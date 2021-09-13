@@ -18,8 +18,8 @@ Dimitris Stamatellos
 
 
 ## My solution
-https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb
-![build](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
+
+![build](https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb)
 
 
 ## My certificate.
