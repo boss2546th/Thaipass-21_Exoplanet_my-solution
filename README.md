@@ -1,7 +1,7 @@
 
 # ThaiPASS2021 - Exoplanets
 
-##########################################
+#
 
 Welcome to the Exoplanets project!
 
