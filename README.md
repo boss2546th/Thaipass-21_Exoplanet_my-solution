@@ -1,6 +1,6 @@
 
 # ThaiPASS2021 - Exoplanets
-
+<ul>
 Welcome to the Exoplanets project!
 
 You can find the project questions in the file: Exoplanets.ipynb
@@ -12,6 +12,7 @@ Before trying the questions please watch the "Exoplanets Lecture" (available fro
 I hope you will enjoy this project and learn some interesting things!
 
 Dimitris Stamatellos
+ </ul>
 #
 
 
