@@ -11,21 +11,23 @@ Before trying the questions please watch the "Exoplanets Lecture" (available fro
 
 I hope you will enjoy this project and learn some interesting things!
 
-Dimitris Stamatellos
+@Dimitris Stamatellos
  </ul>
-#
+
 
 
 
 ## My solution (วิธีการแก้โจทย์ของผมเองครับ)
-Click button.>>> <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb">
-  <img src="https://user-images.githubusercontent.com/61747927/133038578-7b28c803-dbb4-442d-97f9-3872b8c25031.png" width = "150 px"/>
+<ul>
+หลัก.....>>> <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb">
+  <img src="https://user-images.githubusercontent.com/61747927/133038578-7b28c803-dbb4-442d-97f9-3872b8c25031.png" width = "125 px"/>
 </a> 
 
-ถ้าเปิดดูไม่ได้คลิกที่ปุ่มนี้นะครับ <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Solution..md">
-  <img src="https://user-images.githubusercontent.com/61747927/133038578-7b28c803-dbb4-442d-97f9-3872b8c25031.png" width = "100 px"/>
+สำรอง .>>> <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Solution..md">
+  <img src="https://user-images.githubusercontent.com/61747927/133038578-7b28c803-dbb4-442d-97f9-3872b8c25031.png" width = "125 px"/>
 </a> 
-#   
+</ul>
+  
 
 
 ## My certificate. (ได้รับระดับดีเด่นครับ)
