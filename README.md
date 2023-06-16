@@ -17,7 +17,7 @@ I hope you will enjoy this project and learn some interesting things!
 
 
 
-## My solution (วิธีการแก้โจทย์ของผมเองครับ)
+## My solution
 <ul>
 หลัก.....>>> <a href="https://github.com/boss2546th/Thaipass-21_Exoplanet_my-solution/blob/main/Exoplanets.ipynb">
   <img src="https://user-images.githubusercontent.com/61747927/133038578-7b28c803-dbb4-442d-97f9-3872b8c25031.png" width = "125 px"/>
@@ -30,5 +30,5 @@ I hope you will enjoy this project and learn some interesting things!
   
 
 
-## My certificate. (ได้รับระดับดีเด่นครับ)
+## My certificate.
 ![Sorayut Piamrod 377](https://user-images.githubusercontent.com/61747927/133024148-7f8fe93b-1cde-4270-8f7c-f0424870cf55.jpg)
